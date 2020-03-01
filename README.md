@@ -20,7 +20,7 @@ $ npm install -g dependent-licenses
 $ dependent-licenses COMMAND
 running command...
 $ dependent-licenses (-v|--version|version)
-dependent-licenses/0.0.0 win32-x64 node-v12.16.0
+dependent-licenses/0.0.1 win32-x64 node-v12.16.0
 $ dependent-licenses --help [COMMAND]
 USAGE
   $ dependent-licenses COMMAND

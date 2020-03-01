@@ -1,7 +1,7 @@
 {
   "name": "dependent-licenses",
   "description": "Simple license list generator with JSON format from package.json.",
-  "version": "0.0.0",
+  "version": "0.0.2",
   "author": "kyosho- @kyosho-",
   "bin": {
     "dependent-licenses": "./bin/run"
